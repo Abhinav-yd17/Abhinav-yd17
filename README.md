@@ -196,7 +196,7 @@ A web application for organizing and managing events.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/800%2B-Problems_Solved-404040?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/600%2B-Problems_Solved-404040?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/3%E2%98%85-CodeChef-404040?style=for-the-badge&logo=codechef&logoColor=white"/>
 
 </div>
@@ -207,7 +207,7 @@ A web application for organizing and managing events.
 
 **LEETCODE**
 
-### 300+
+### 600+
 
 Problems Solved
 
