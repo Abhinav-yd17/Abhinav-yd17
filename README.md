@@ -1,174 +1,154 @@
-
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,35:0F172A,70:164E63,100:06B6D4&text=ABHINAV%20YADAV&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20THE%20FUTURE&descAlignY=60&descSize=14&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=06B6D4&center=true&vCenter=true&width=850&lines=AI+%26+Full+Stack+Developer;3%E2%98%85+CodeChef+Programmer;800%2B+Problems+Solved+Across+Platforms;Agentic+AI+%7C+MERN+%7C+Machine+Learning;Turning+Complex+Problems+Into+Solutions" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:090909,50:262626,100:090909&text=ABHINAV%20YADAV&fontSize=55&fontColor=E5E5E5&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%7C%20ARTIFICIAL%20INTELLIGENCE%20%7C%20PROBLEM%20SOLVING&descSize=12&descAlignY=65&fontFamily=Roboto" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/Abhinav-yd17"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=06B6D4"/></a>
-<a href="https://www.linkedin.com/in/abhinav-yadav-906387331/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://leetcode.com/u/Abhinavyd-17/"><img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-<a href="https://www.codechef.com/users/abhinavyd17"><img src="https://img.shields.io/badge/CODECHEF-0D1117?style=for-the-badge&logo=codechef&logoColor=5B4638"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=A3A3A3&center=true&vCenter=true&width=750&lines=AI+%26+Full+Stack+Developer;Competitive+Programmer+%7C+800%2B+Problems;Building+Intelligent+Systems;Turning+Ideas+Into+Scalable+Products" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Abhinav-yd17&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge"/>
+<a href="https://github.com/Abhinav-yd17"><img src="https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=FFFFFF"/></a>
+<a href="https://www.linkedin.com/in/abhinav-yadav-906387331/"><img src="https://img.shields.io/badge/LinkedIn-171717?style=flat-square&logo=linkedin&logoColor=FFFFFF"/></a>
+<a href="https://leetcode.com/u/Abhinavyd-17/"><img src="https://img.shields.io/badge/LeetCode-171717?style=flat-square&logo=leetcode&logoColor=FFFFFF"/></a>
+<a href="https://www.codechef.com/users/abhinavyd17"><img src="https://img.shields.io/badge/CodeChef-171717?style=flat-square&logo=codechef&logoColor=FFFFFF"/></a>
 
 </div>
 
 ---
 
-## `01` // THE DEVELOPER BEHIND THE CODE
+## 01. ABOUT ME
 
-```python
-class AbhinavYadav:
+```cpp
+#include <bits/stdc++.h>
+using namespace std;
 
-    def __init__(self):
-        self.name = "Abhinav Yadav"
-        self.education = "B.Tech CSE (AI) | GLBITM"
-        self.graduation = 2028
+class Developer {
+public:
+    string name = "Abhinav Yadav";
+    string education = "B.Tech CSE (AI)";
+    string college = "GL Bajaj, 2024-2028";
 
-        self.roles = [
-            "AI Developer",
-            "Full Stack Developer",
-            "Competitive Programmer"
-        ]
+    vector<string> interests = {
+        "Artificial Intelligence",
+        "Agentic AI & LLMs",
+        "Full Stack Engineering",
+        "Competitive Programming",
+        "System Design"
+    };
 
-        self.interests = [
-            "Agentic AI",
-            "Machine Learning",
-            "System Design",
-            "Competitive Programming",
-            "Scalable Applications"
-        ]
-
-        self.current_mission = "Build. Break. Learn. Repeat."
-
-    def philosophy(self):
-        return "Great software solves problems that matter."
-
-
-me = AbhinavYadav()
-print(me.philosophy())
+    string philosophy =
+        "Think deeply. Build intelligently. Keep evolving.";
+};
 ```
 
-- 🎓 Computer Science & Artificial Intelligence undergraduate.
-- ⚡ 800+ coding problems solved across platforms.
+I'm a Computer Science undergraduate specializing in Artificial Intelligence, passionate about building intelligent applications, solving complex problems, and exploring modern software engineering.
+
+- 🎓 B.Tech CSE (Artificial Intelligence), GL Bajaj Institute of Technology & Management.
+- 💻 800+ coding problems solved across platforms.
 - 🏆 3-Star CodeChef programmer.
-- 🤖 Exploring Agentic AI and multi-agent architectures.
-- 💻 Building intelligent, scalable full-stack applications.
-- 👨‍💻 Developer at Google Developer Groups – GLBITM.
-- 🚀 Technical Head at Vividhita Club – GLBITM.
+- 🤖 Exploring Agentic AI, Generative AI and Multi-Agent Systems.
+- ⚙️ Building full-stack applications and AI-powered products.
+- 🎯 Interested in scalable systems, backend engineering and problem-solving.
 
 ---
 
-## `02` // THE COMPETITIVE ARENA
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/800%2B-PROBLEMS_SOLVED-06B6D4?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/3%E2%98%85-CODECHEF-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white"/>
-<img src="https://img.shields.io/badge/1626-HIGHEST_CODECHEF_RATING-F59E0B?style=for-the-badge"/>
-
-</div>
-
-<table>
-<tr>
-<th>Platform</th>
-<th>Achievement</th>
-<th>Profile</th>
-</tr>
-<tr>
-<td>LeetCode</td>
-<td>300+ problems solved (previously reported)</td>
-<td><a href="https://leetcode.com/u/Abhinavyd-17/">Visit ↗</a></td>
-</tr>
-<tr>
-<td>CodeChef</td>
-<td>3★ | 1626 highest rating</td>
-<td><a href="https://www.codechef.com/users/abhinavyd17">Visit ↗</a></td>
-</tr>
-<tr>
-<td>Other platforms</td>
-<td>Additional problems contributing to 800+</td>
-<td>Competitive programming</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://leetcard.jacoblin.cool/Abhinavyd-17?theme=dark&font=JetBrains%20Mono&ext=contest">
-<img src="https://leetcard.jacoblin.cool/Abhinavyd-17?theme=dark&font=JetBrains%20Mono&ext=contest" width="75%"/>
-</a>
-
-</div>
-
----
-
-## `03` // TECHNOLOGY ARSENAL
-
-<div align="center">
-
-### Programming Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js&theme=dark"/>
-
-### Frontend Engineering
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,threejs,vite&theme=dark"/>
-
-### Backend Engineering
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark"/>
-
-### Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,docker&theme=dark"/>
-
-### AI / ML & Developer Tools
-
-<img src="https://skillicons.dev/icons?i=tensorflow,git,github,vscode&theme=dark"/>
-
-</div>
-
----
-
-## `04` // SELECTED ENGINEERING PROJECTS
+## 02. LEADERSHIP & COMMUNITY
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛡️ SentinelX</h3>
+### Technical Head
+
+**Vividhita Club — GL Bajaj**
+
+`2026 – Present`
+
+Leading technical initiatives and contributing to the club's technical activities, development initiatives and collaborative projects.
+
+</td>
+<td width="50%" valign="top">
+
+### Developer
+
+**Google Developer Groups — GL Bajaj**
+
+`2025 – Present`
+
+Contributing to the developer community through technical workshops, events and collaborative development initiatives.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 03. TECHNICAL ARSENAL
+
+### Programming Languages
+<img src="https://img.shields.io/badge/C-262626?style=flat-square&logo=c&logoColor=E5E5E5"/> <img src="https://img.shields.io/badge/C++-262626?style=flat-square&logo=cplusplus&logoColor=E5E5E5"/> <img src="https://img.shields.io/badge/Python-262626?style=flat-square&logo=python&logoColor=E5E5E5"/> <img src="https://img.shields.io/badge/JavaScript-262626?style=flat-square&logo=javascript&logoColor=E5E5E5"/>
+
+### Core Computer Science
+<img src="https://img.shields.io/badge/Data_Structures-262626?style=flat-square"/> <img src="https://img.shields.io/badge/Algorithms-262626?style=flat-square"/> <img src="https://img.shields.io/badge/OOPS-262626?style=flat-square"/> <img src="https://img.shields.io/badge/Operating_Systems-262626?style=flat-square"/> <img src="https://img.shields.io/badge/DBMS-262626?style=flat-square"/> <img src="https://img.shields.io/badge/Low_Level_Design-262626?style=flat-square"/>
+
+### Web Development
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,threejs,tailwind&theme=dark"/>
+
+### AI / ML / Generative AI
+<img src="https://img.shields.io/badge/Machine_Learning-262626?style=flat-square"/> <img src="https://img.shields.io/badge/NLP-262626?style=flat-square"/> <img src="https://img.shields.io/badge/Deep_Learning-262626?style=flat-square"/> <img src="https://img.shields.io/badge/Generative_AI-262626?style=flat-square"/> <img src="https://img.shields.io/badge/Agentic_AI-262626?style=flat-square"/>
+
+**Specializations**
+
+- Deep Learning: ANN, CNN, RNN, Transformers
+- Generative AI: LLMs, RAG, LangChain
+- Agentic AI: LangGraph, Multi-Agent Systems, MCP
+- Frameworks: TensorFlow, Flask
+- Data Science: NumPy, Pandas, Matplotlib
+- Infrastructure: Vector Databases
+
+### Cloud Computing — AWS
+<img src="https://img.shields.io/badge/EC2-262626?style=flat-square"/> <img src="https://img.shields.io/badge/S3-262626?style=flat-square"/> <img src="https://img.shields.io/badge/IAM-262626?style=flat-square"/> <img src="https://img.shields.io/badge/RDS-262626?style=flat-square"/> <img src="https://img.shields.io/badge/Lambda-262626?style=flat-square"/> <img src="https://img.shields.io/badge/VPC-262626?style=flat-square"/> <img src="https://img.shields.io/badge/CloudFront-262626?style=flat-square"/> <img src="https://img.shields.io/badge/Route_53-262626?style=flat-square"/> <img src="https://img.shields.io/badge/ELB-262626?style=flat-square"/> <img src="https://img.shields.io/badge/Auto_Scaling-262626?style=flat-square"/>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+---
+
+## 04. SELECTED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / SentinelX
 
 **Real-Time Threat Monitoring Platform**
 
-A security monitoring platform designed to identify suspicious user activity.
+A security monitoring system designed to detect suspicious user activity and generate actionable alerts.
 
-- Real-time log monitoring.
-- Behavior-based risk scoring.
-- Anomaly detection.
-- Automated security alerts.
-- WebSocket-powered dashboard.
+- Behavior-based risk scoring
+- Anomaly detection
+- Real-time security monitoring
+- Automated alert generation
+- Role-based access control
 
 `MERN` `WebSockets` `Security`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🤖 Atlas-AI</h3>
+### 02 / Atlas-AI
 
 **Multi-Agent AI Travel Planner**
 
-An intelligent travel planning system powered by multi-agent orchestration.
+An intelligent travel planning application powered by agentic workflows and external tools.
 
-- LangGraph multi-agent workflow.
-- MCP tool integration.
-- Flight and hotel research.
-- Weather intelligence.
-- Structured itinerary generation.
+- LangGraph orchestration
+- MCP tool integration
+- Flight and hotel research
+- Weather intelligence
+- Structured itinerary generation
 
 `Python` `LangGraph` `FastAPI` `MCP`
 
@@ -177,34 +157,34 @@ An intelligent travel planning system powered by multi-agent orchestration.
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔍 InkSpector</h3>
+### 03 / InkSpector
 
 **AI-Powered Deepfake Detection**
 
-A platform that analyzes media to detect potential deepfake content.
+An application designed to analyze media and detect potential deepfake content.
 
-- AI-based prediction pipeline.
-- Flask prediction API.
-- Node.js backend integration.
-- Media analysis workflow.
+- ML-powered prediction pipeline
+- Flask prediction API
+- Node.js backend integration
+- Media analysis workflow
 
-`Python` `Flask` `Node.js` `Machine Learning`
+`Python` `Flask` `Node.js` `ML`
 
 </td>
 <td width="50%" valign="top">
 
-<h3>📅 Event Management System</h3>
+### 04 / Event Management System
 
 **Full Stack Event Management Platform**
 
-A platform for managing and organizing events.
+A web application for organizing and managing events.
 
-- Event creation and management.
-- User authentication.
-- Event registration workflow.
-- MongoDB-backed data management.
+- Event creation and management
+- User authentication
+- Event registration
+- MongoDB-backed data management
 
-`MongoDB` `Express` `React` `Node.js`
+`MongoDB` `Express.js` `React.js` `Node.js`
 
 </td>
 </tr>
@@ -212,81 +192,110 @@ A platform for managing and organizing events.
 
 ---
 
-## `05` // GITHUB ANALYTICS
+## 05. COMPETITIVE PROGRAMMING
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhinav-yd17&show_icons=true&hide_border=true&bg_color=020617&title_color=06B6D4&icon_color=8B5CF6&text_color=FFFFFF&rank_icon=github"/>
+<img src="https://img.shields.io/badge/800%2B-Problems_Solved-404040?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/3%E2%98%85-CodeChef-404040?style=for-the-badge&logo=codechef&logoColor=white"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-yd17&layout=compact&hide_border=true&bg_color=020617&title_color=06B6D4&text_color=FFFFFF"/>
+</div>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**LEETCODE**
+
+### 300+
+
+Problems Solved
+
+<a href="https://leetcode.com/u/Abhinavyd-17/">View Profile ↗</a>
+
+</td>
+<td align="center" width="50%">
+
+**CODECHEF**
+
+### 3 Star
+
+Competitive Programmer
+
+<a href="https://www.codechef.com/users/abhinavyd17">View Profile ↗</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Abhinavyd-17?theme=dark&font=JetBrains%20Mono&ext=contest" width="80%"/>
+
+</div>
+
+---
+
+## 06. GITHUB STATISTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhinav-yd17&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4D4D4&icon_color=A3A3A3&text_color=E5E5E5&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-yd17&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4D4D4&text_color=E5E5E5"/>
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Abhinav-yd17&theme=transparent&hide_border=true&background=020617&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=Abhinav-yd17&theme=transparent&hide_border=true&background=0D1117&ring=A3A3A3&fire=D4D4D4&currStreakLabel=D4D4D4&sideLabels=A3A3A3&dates=737373"/>
 
 </div>
 
 ---
 
-## `06` // THE CONTRIBUTION MATRIX
+## 07. CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-yd17&bg_color=020617&color=06B6D4&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-yd17&bg_color=0D1117&color=A3A3A3&line=D4D4D4&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## `07` // CURRENTLY BUILDING MY NEXT LEVEL
+## 08. BEYOND CODE
 
-```bash
-$ whoami
+- 🎤 Vocalist at Ridam Band.
+- 🎯 Technical leadership and community building.
+- 🧠 Continuous learning and competitive problem-solving.
+- ⚡ Interested in engineering products that solve real-world problems.
 
-  Abhinav Yadav | Developer & Problem Solver
+---
 
-$ cat current_focus.txt
+## 09. WHAT'S NEXT?
 
-  > Advanced Data Structures & Algorithms
-  > Agentic AI & Multi-Agent Systems
-  > System Design & Backend Engineering
-  > Machine Learning & Deep Learning
-  > Cloud Architecture & AWS
-
-$ cat objective.txt
-
-  Build products.
-  Solve meaningful problems.
-  Engineer scalable systems.
-  Never stop learning.
+```text
+01. Master advanced Data Structures & Algorithms
+02. Build production-grade Agentic AI systems
+03. Deepen System Design & Backend Engineering
+04. Explore Cloud Architecture and AWS
+05. Build products with real-world impact
 ```
 
 ---
 
-## `08` // BEYOND THE TERMINAL
-
-- 🎤 Vocalist at Ridam Band.
-- 🎯 Community leadership and technical event organization.
-- 🧩 Passionate about problem-solving and engineering challenges.
-- 🌌 Interested in building products at the intersection of AI and software engineering.
-
----
-
-## `09` // ESTABLISH CONNECTION
-
 <div align="center">
 
-### Have an idea? Let's turn it into reality.
+### LET'S BUILD SOMETHING MEANINGFUL.
 
-<a href="https://github.com/Abhinav-yd17"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-111827?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/abhinav-yadav-906387331/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://leetcode.com/u/Abhinavyd-17/"><img src="https://img.shields.io/badge/LEETCODE-COMPETE-FFA116?style=for-the-badge&logo=leetcode"/></a>
-<a href="https://www.codechef.com/users/abhinavyd17"><img src="https://img.shields.io/badge/CODECHEF-CHALLENGE-5B4638?style=for-the-badge&logo=codechef"/></a>
+<a href="https://github.com/Abhinav-yd17"><img src="https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abhinav-yadav-906387331/"><img src="https://img.shields.io/badge/LINKEDIN-181818?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Abhinavyd-17/"><img src="https://img.shields.io/badge/LEETCODE-181818?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/abhinavyd17"><img src="https://img.shields.io/badge/CODECHEF-181818?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 <br/><br/>
 
-**"The best way to predict the future is to build it."**
+*"Simplicity is the ultimate sophistication."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:06B6D4,50:164E63,100:020617&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:090909,50:262626,100:090909&section=footer" width="100%"/>
 
 </div>
